@@ -3,3 +3,8 @@
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+   public void logowanie do Google() {
+        System.out.println("Podaj nazwę email z gmail");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
